@@ -16,12 +16,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./Project%20Screenshot/qr-code.png)
+![Project Screenshot](./Project%20Screenshot/qr-code.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](http://127.0.0.1:5500/qr-code-component-main/index.html)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (http://127.0.0.1:5500/qr-code-component-main/index.html)
+- Live Site URL: [Github Pages](https://niitettey112.github.io/QR-code-component/)
 
 ### Built with
 
